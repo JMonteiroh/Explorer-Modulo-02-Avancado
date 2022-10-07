@@ -94,6 +94,7 @@ footer p a {
 }
 
 #padlock {
+  margin: 20px 20px;
   display: flex;
   position: fixed;
   bottom: 0;
